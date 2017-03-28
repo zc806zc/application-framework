@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HRMobileAndroidApp</string>
+    <string name="send_code_again">再次发送</string>
+    <string name="has_nothing">没有内容</string>
+    <string name="load_error_click_to_retry">重新加载</string>
+</resources>
